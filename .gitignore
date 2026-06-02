@@ -1,0 +1,8 @@
+.venv
+neonnet.db
+.next
+node_modules
+.env.local
+next-dev.err.log
+next-dev.log
+tsconfig.tsbuildinfo
