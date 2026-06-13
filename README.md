@@ -14,6 +14,8 @@ Local-only · HN + Reddit · SQLite history · No AI · No cloud
 
 <img width="1881" height="836" alt="Image" src="https://github.com/user-attachments/assets/97fd8379-fcf8-45e3-904a-598c829af6fe" />
 
+<img width="1901" height="864" alt="Image" src="https://github.com/user-attachments/assets/43f5d654-3357-41d7-95d6-e4649e5d9f31" />
+
 ---
 
 ## What It Does
