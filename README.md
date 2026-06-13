@@ -422,7 +422,7 @@ Local generated files are ignored, including:
 
 ## Current MVP Status
 
-NeonNet is a working local MVP. It is ready for demoing the core loop:
+NeonNet is a working local MVP. It is ready for demoing the core loop: 
 
 ```text
 Fetch public posts -> build graph -> collect snapshot -> inspect history and velocity
