@@ -5,8 +5,16 @@
 It collects public posts, extracts simple deterministic keywords, builds a co-occurrence graph, and stores optional trend snapshots in SQLite so you can inspect momentum over time. Everything runs on your machine.
 
 ```text
-Local-only · HN + Reddit · SQLite history · No AI · No cloud
+Local-only Â· HN + Reddit Â· SQLite history Â· No AI Â· No cloud
 ```
+
+## ğŸ–¼ï¸ Screenshots
+
+<img width="1888" height="855" alt="Image" src="https://github.com/user-attachments/assets/91881dbe-ca1e-4ecd-aa1c-a9aed51191ab" />
+
+<img width="1881" height="836" alt="Image" src="https://github.com/user-attachments/assets/97fd8379-fcf8-45e3-904a-598c829af6fe" />
+
+---
 
 ## What It Does
 
